@@ -1,8 +1,8 @@
 # One Line of Earned Pride
 
-[![Rank](https://make.fun/api/bounty/u-mang-one-line-of-earned-pride-a0138557/badge/rank)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![Reward](https://make.fun/api/bounty/u-mang-one-line-of-earned-pride-a0138557/badge/reward)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![Leaderboard](https://make.fun/api/bounty/u-mang-one-line-of-earned-pride-a0138557/badge/leaderboard)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
+[![make.fun · u-mang-one-line-of-earned-pride-a0138557](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/Humaedi95/earned-pride-one-line/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/Humaedi95/earned-pride-one-line/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 
 A single line of quiet, earned pride: a mother who worked night shifts for
 years, finally hearing her child read a bedtime story all the way through
