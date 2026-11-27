@@ -5,7 +5,7 @@ import { join } from "node:path";
 // finally hearing her child read a bedtime story all the way through
 // without stumbling once.
 const LINE =
-  "Setelah tujuh tahun pulang larut dari shift malam, Ibu akhirnya duduk di tepi ranjang dan mendengar anaknya membacakan dongeng sampai habis tanpa sekali pun tersendat.";
+  "After seven years of night shifts, she slipped home, sat on the edge of the bed, and listened while her daughter read the whole bedtime story through without stumbling once.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR || "/output";
 mkdirSync(outDir, { recursive: true });
